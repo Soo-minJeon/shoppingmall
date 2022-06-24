@@ -16,5 +16,5 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## Stack
 
-In this project, I used
+In this project
 React.js, Spring boot
